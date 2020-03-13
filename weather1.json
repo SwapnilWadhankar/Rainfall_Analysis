@@ -1,0 +1,13 @@
+{"fields":[{"id":"a","label":"SUBDIVISION","type":"string"},
+{"id":"b","label":"YEAR","type":"string"},
+{"id":"c","label":"JAN","type":"string"},
+{"id":"d","label":"FEB","type":"string"},
+{"id":"e","label":"MAR","type":"string"},{"id":"f","label":"APR","type":"string"},
+{"id":"g","label":"MAY","type":"string"},{"id":"h","label":"JUN","type":"string"},
+{"id":"i","label":"JUL","type":"string"},{"id":"j","label":"AUG","type":"string"},
+{"id":"k","label":"SEP","type":"string"},{"id":"l","label":"OCT","type":"string"},
+{"id":"m","label":"NOV","type":"string"},{"id":"n","label":"DEC","type":"string"},
+{"id":"o","label":"ANNUAL","type":"string"},{"id":"p","label":"JF","type":"string"},
+{"id":"q","label":"MAM","type":"string"},{"id":"r","label":"JJAS","type":"string"},
+{"id":"s","label":"OND","type":"string"}],
+"data":[["Andaman & Nicobar Islands","1901","49.2","87.1","29.2","2.3","528.8","517.5","365.1","481.1","332.6","388.5","558.2","33.6","3373.2","136.3","560.3","1696.3","980.3"]]}
